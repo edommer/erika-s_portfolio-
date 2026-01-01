@@ -6,3 +6,4 @@
 [Breast Cancer Classification w/ SVM](Machine Learning/Week 6 Assignment (SVM and Training Models) P2_ Breast Cancer Classification w SVM.ipynb): This project combines a significant real-world, high-impact application (healthcare/cancer detection) with a robust algorithm (SVM), demonstrating the ability to handle critical classification tasks.
 [Ensemble & Stacking Methods](Machine Learning/Week 8 Assignment (Ensembles and Stacking) - Classification Dataset.ipynb): This shows proficiency in advanced techniques like ensemble methods, which often provide superior performance and demonstrate a deeper understanding of machine learning strategies.
 [CIFAR10 Neural Network (P2)](Machine Learning/Week 12 Assignment(Intro to ANN) P2_ Neural_Network_Assignment_CIFAR10 P2.ipynb): This assignment focuses on the application of neural networks to the CIFAR10 image classification dataset, demonstrating skills in handling image data and training models for computer vision tasks.
+
