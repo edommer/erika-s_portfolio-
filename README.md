@@ -8,7 +8,7 @@ Featured ML Projects
 
 Here are some highlights from my coursework, demonstrating a diverse skill set:
 
-*[Deep Neural Networks Training](Machine Learning/Project 2_Training_Deep_Neural_Networks.ipynb): This project demonstrates expertise in deep learning and neural networks, a highly sought-after and modern skill in the AI field.
+* [Deep Neural Networks Training](Machine Learning/Project 2_Training_Deep_Neural_Networks.ipynb): This project demonstrates expertise in deep learning and neural networks, a highly sought-after and modern skill in the AI field.
 
 *[Protein Expression PCA](Machine Learning/Test 2 P3_protein-expression-pca.ipynb): Principal Component Analysis (PCA) is a core dimensionality reduction and data preprocessing technique, showing strong foundations in data preparation and statistical methods.
 
@@ -23,5 +23,6 @@ Here are some highlights from my coursework, demonstrating a diverse skill set:
 Featured Data Science Projects
 
 * (This is pending my friend, will upload soon)
+
 
 
