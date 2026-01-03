@@ -1,10 +1,10 @@
 # erika-s_portfolio-
 
-Overview
+# Overview
 
 Welcome Curious Traveler to my public GitHub repository showcasing assignments and projects completed during my Master's degree in Data Science and Data Analytics. This portfolio demonstrates my expertise in various data science techniques, from foundational data preprocessing to advanced deep learning applications and ensemble methods.
 
-Featured ML Projects
+## Featured ML Projects
 
 Here are some highlights from my coursework, demonstrating a diverse skill set:
 
@@ -20,9 +20,10 @@ Here are some highlights from my coursework, demonstrating a diverse skill set:
 
 * [CIFAR10 Neural Network (P2)](Machine Learning/Week 12 Assignment(Intro to ANN) P2_ Neural_Network_Assignment_CIFAR10 P2.ipynb): This assignment focuses on the application of neural networks to the CIFAR10 image classification dataset, demonstrating skills in handling image data and training models for computer vision tasks.
 
-Featured Data Science Projects
+## Featured Data Science Projects
 
 * (This is pending my friend, will upload soon)
+
 
 
 
