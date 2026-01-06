@@ -1,4 +1,4 @@
-# erika-s_portfolio-
+# erika-s_portfolio
 
 # Overview
 
@@ -50,6 +50,7 @@ Here are some highlights from my coursework, demonstrating a diverse skill set:
 ## Featured Data Science Projects
 
 * (This is pending my friend, will upload soon)
+
 
 
 
